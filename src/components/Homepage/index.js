@@ -4,6 +4,14 @@ import React from 'react';
 import Hero from '../../components/Hero/index';
 import Carousel from '..//Carousel/index';
 
+
+
+
+
+
+
+
+
 function HomePage(props) {
 
     return (

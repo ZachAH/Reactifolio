@@ -1,21 +1,3 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
-    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  background: hsla(145, 44%, 37%, 1);
-
-background: linear-gradient(90deg, hsla(145, 44%, 37%, 1) 0%, hsla(190, 53%, 56%, 1) 100%);
-
-background: -moz-linear-gradient(90deg, hsla(145, 44%, 37%, 1) 0%, hsla(190, 53%, 56%, 1) 100%);
-
-background: -webkit-linear-gradient(90deg, hsla(145, 44%, 37%, 1) 0%, hsla(190, 53%, 56%, 1) 100%);
-
-filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#348756", endColorstr="#54B6CA", GradientType=1 );
-
-}
 
 
 
