@@ -1,7 +1,7 @@
 import React from 'react';
 import Card from '..//Card/index';
 
-
+import house from '..//..//Assets/Images/house.png';
 import plant from '..//..//Assets/Images/plant.png';
 import snappy from '..//..//Assets/Images/snappy.png';
 import Zoo from '..//..//Assets/Images/Zoo.png';
@@ -41,13 +41,13 @@ class Carousel extends React.Component {
                         link: 'https://thawing-journey-84707.herokuapp.com/',
                         selected: false
                     },
-                    {
-                        id:3,
-                        title: 'House-It',
-                        subTitle: 'A modern file cabinent for homeowners',
-                        imgSrc:,
-                        link: 'https://house-it.herokuapp.com/',
-                        selected: false
+                     {
+                         id:3,
+                         title: 'House-It',
+                         subTitle: 'A modern file cabinent for homeowners',
+                         imgSrc: house,
+                         link: 'https://house-it.herokuapp.com/',
+                         selected: false
                     }
                 ]
             }

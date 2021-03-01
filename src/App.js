@@ -23,8 +23,8 @@ class App extends React.Component {
       ],
       home: {
         title: "A first with React",
-        subTitle: "A Professional Portfolio",
-        text: "My Portfolio Made With React"
+        subTitle: "A Professional Portfolio"
+        
       },
 
       about: {
