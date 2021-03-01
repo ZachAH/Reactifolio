@@ -41,6 +41,14 @@ class Carousel extends React.Component {
                         link: 'https://thawing-journey-84707.herokuapp.com/',
                         selected: false
                     },
+                    {
+                        id:3,
+                        title: 'House-It',
+                        subTitle: 'A modern file cabinent for homeowners',
+                        imgSrc:,
+                        link: 'https://house-it.herokuapp.com/',
+                        selected: false
+                    }
                 ]
             }
         }
